@@ -6,7 +6,6 @@
 
 💡 Passionate about **backend systems, APIs, and scalable architectures.**  
 🛠️ Building with **Node.js, Express.js, React, MongoDB, MySQL.**  
-🎓 **B.Tech CSE** @ Dayananda Sagar University (2022-2026)  
 
 📬 **Let's connect:** **krishnaidnani7@gmail.com**  
 
